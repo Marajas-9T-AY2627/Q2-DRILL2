@@ -1,0 +1,20 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(13, 12, 14);
+    color: white;
+    text-align: center;
+}
+
+body{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/664c7ae50eea9c731b37e817/8048edd1-98cc-42df-b46b-905a84cd33dc/CASA+PROGRAM+5+-+18+copy.jpg?format=2500w);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
+.heading{
+    text-align: center;
+}
